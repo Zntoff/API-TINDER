@@ -1,0 +1,14 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "API tinder",
+  "main": "C:\\Users\\Edison Ramirez\\Desktop\\PROTALENTO\\API TINDER\\JS\\script.js",
+  "scripts": {
+    "test": "npm init"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Edison Ramirez",
+  "license": "UNLICENSED"
+}
